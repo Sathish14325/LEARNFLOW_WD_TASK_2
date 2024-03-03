@@ -5,8 +5,9 @@
 A simple weather application that allows users to check the current weather conditions of a location.
 
 ## screenshot
+![vlcsnap-2024-03-03-17h15m58s929](https://github.com/Sathish14325/LEARNFLOW_WD_TASK_2/assets/140421254/3cd28c94-1ba0-40ba-8b9f-33db3cef09a4)
 
-![Screenshot](weather-app-screenshot.png)
+
 
 ## Features
 
